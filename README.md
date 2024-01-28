@@ -1,16 +1,17 @@
 # NASA API Mars Rover Photos
+This repository contains a project that uses NASA's API to retrieve and display photos taken by the rovers on Mars. The API allows access to images collected by the Curiosity, Opportunity, and Spirit rovers.
 
-Este repositório contém um projeto que utiliza a API da NASA para obter e exibir fotos dos rovers em Marte. A API permite acessar imagens coletadas pelos rovers Curiosity, Opportunity e Spirit.
+## Project Description
+The goal of this project is to explore the fascinating images captured by NASA's rovers on Mars. Using the API, the project makes queries to obtain photos from a specific sol (Martian day) or by date on Earth.
 
-## Descrição do Projeto
+## Key Features
+Querying photos by sol or Earth date.
+Filtering by the camera used by the rovers.
+Viewing and downloading the images.
+Contributions
+Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
 
-O objetivo deste projeto é explorar as fascinantes imagens capturadas pelos rovers da NASA em Marte. Utilizando a API, o projeto realiza consultas para obter fotos de um determinado sol (dia marciano) ou por data na Terra.
 
-## Recursos Principais
 
-- Consulta de fotos por sol ou data na Terra.
-- Filtragem por câmera utilizada pelos rovers.
-- Visualização e download das imagens.
 
-### - Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
+
